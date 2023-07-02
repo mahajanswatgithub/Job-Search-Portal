@@ -4,7 +4,7 @@
 
 ![Data Flow](DFD.png)
 
-![Database Design](Db.png)
+![Database Design](Db1.jpg)
 ## Data Structure used in your project
 * Arraylist
 ## Project Summary
